@@ -19,19 +19,19 @@ Ce projet React démontre la consommation d'API REST en utilisant deux méthodes
 
 ##  Installation et Démarrage
 
-\`\`\`bash
-# Cloner le dépôt
+bash
+### Cloner le dépôt
 git clone https://github.com/hbenziat1318-cloud/TP8-API-REACT.git
 
-# Se déplacer dans le dossier
+### Se déplacer dans le dossier
 cd TP8-API-REACT
 
-# Installer les dépendances
+### Installer les dépendances
 npm install
 
-# Démarrer l'application
+### Démarrer l'application
 npm start
-\`\`\`
+
 
 L'application sera accessible sur : `http://localhost:3000`
 
@@ -67,4 +67,5 @@ https://github.com/user-attachments/assets/0269b29a-fbfe-4773-992e-c32f7165f2f4
 **Réalisee par**:BENZIAT hana
 <br>
 **Encadré par**:Mr.LACHGAR mohammed
+
 
